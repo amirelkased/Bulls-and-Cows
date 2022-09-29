@@ -1,8 +1,8 @@
-package bullscows;
+package Stage6;
 
 import java.util.Scanner;
 
-import static bullscows.GameLog.*;
+import static Stage6.GameLog.*;
 
 public class Main {
     static Scanner scanner = new Scanner(System.in);
