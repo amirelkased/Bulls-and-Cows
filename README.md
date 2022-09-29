@@ -11,3 +11,5 @@ Simple Project guess numbers
 - Stage #4 & 5 -> [Source Code](https://github.com/amirelkased/Bulls-and-Cows/tree/main/src/Stage4)
 
 - Stage #6 -> [Source Code](https://github.com/amirelkased/Bulls-and-Cows/tree/main/src/Stage6)
+
+- Stage #7 -> [Source Code](https://github.com/amirelkased/Bulls-and-Cows/tree/main/src/Stage7)
