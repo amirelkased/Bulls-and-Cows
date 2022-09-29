@@ -1,4 +1,4 @@
-package bullscows;
+package Stage6;
 
 import java.util.Arrays;
 import java.util.List;
