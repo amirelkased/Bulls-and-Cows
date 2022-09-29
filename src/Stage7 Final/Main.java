@@ -1,9 +1,9 @@
-package bullscows;
+package Stage7 Final;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-import static bullscows.GameLog.*;
+import static Stage7 Final.GameLog.*;
 
 public class Main {
     static Scanner scanner = new Scanner(System.in);
